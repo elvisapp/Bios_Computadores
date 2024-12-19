@@ -1,5 +1,5 @@
 <h1 align="center"> Emulación de BIOS Personalizada</h1>
-Descripción
+<h3 align="center">Descripción</h3>
 Este proyecto demuestra la creación y emulación de una BIOS personalizada utilizando ensamblador y QEMU. La BIOS simple muestra un mensaje "Hola BIOS" en la pantalla al iniciar. El proyecto incluye:
 
 Código en Ensamblador: Escrito en un archivo bios.asm que define la funcionalidad básica de la BIOS.
