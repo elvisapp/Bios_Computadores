@@ -8,5 +8,3 @@ Compilación con NASM: Transformación del código de ensamblador en un archivo 
 
 Emulación con QEMU: Uso de QEMU para emular el archivo binario y visualizar la salida.
 
-
-<img src=" https://github.com/user-attachments/assets/c03962bd-562d-44d5-9755-b849b30dcdf3">
